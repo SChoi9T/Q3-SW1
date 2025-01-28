@@ -1,5 +1,5 @@
 # Q3-SW1
-3 SEATWORK 1: JAVASCRIPT BASICS
+Q3 SEATWORK 1: JAVASCRIPT BASICS
 
 🎯 OBJECTIVE: Create a web page with JavaScript outputs that convert a temperature to Celsius, Fahrenheit, or Kelvin.
 
