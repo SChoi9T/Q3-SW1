@@ -1,0 +1,39 @@
+	* {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	body {
+		background-color: #0D1F2D;
+		background-size: cover;
+	}
+
+	hr {
+		border: 3px dotted #000000;
+	}
+
+	a {
+		color: #A5D0F1;
+	}
+
+	a:hover {
+		color: #91C5ED;
+	}
+
+	.container {
+		color: #FFFFFF;
+		text-shadow: 2px 2px 6px #000000;
+		border: 5px solid #FFFFFF;
+		background-color: #546A7B;
+		text-align: center;
+		padding: 30px;
+		border-radius: 20px;
+	}
+
+	.given {
+		border: 3px solid #FFFFFF;
+		border-radius: 10px;
+		padding: 5px;
+		margin-top: 20px;
+		background-color: #224D6F;
+	}
